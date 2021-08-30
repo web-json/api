@@ -1,0 +1,13 @@
+{
+  "description": "this is test nft", 
+  "external_url": "0", 
+  "image": "https://raw.githubusercontent.com/web-json/images/main/0.png", 
+  "name": "china nft 0 test",
+  "attributes":    [
+	{
+      "display_type": "date", 
+      "trait_type": "birthday", 
+      "value": 1546360800
+   	 }
+	]
+}
